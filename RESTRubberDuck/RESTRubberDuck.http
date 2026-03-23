@@ -1,0 +1,6 @@
+@RESTRubberDuck_HostAddress = http://localhost:5234
+
+GET {{RESTRubberDuck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
